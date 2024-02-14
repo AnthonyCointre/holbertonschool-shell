@@ -12,7 +12,7 @@
 
 7-everybody : ajouter l'autorisation d'exécution au propriétaire, au propriétaire du groupe et aux autres utilisateurs, au fichier hello
 
-8-James_Bond : définir l'autorisation sur le fichier hello comme Propriétaire : aucune autorisation du tout ; Groupe : aucune autorisation du tout ; Autres utilisateurs : toutes les autorisations
+8-James_Bond : définir l'autorisation sur le fichier hello comme = Propriétaire : aucune autorisation du tout ; Groupe : aucune autorisation du tout ; Autres utilisateurs : toutes les autorisations
 
 9-John_Doe : définir le mode du fichier hello
 
