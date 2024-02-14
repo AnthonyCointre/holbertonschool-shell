@@ -1,1 +1,7 @@
-Repo Shell
+Basics :
+
+
+Permissions :
+
+
+I/O Redirections et filtres :
