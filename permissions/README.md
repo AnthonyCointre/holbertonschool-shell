@@ -8,8 +8,7 @@
 
 4-empty : créer un fichier vide appelé hello
 
-5-execute : ajouter l'autorisation d'exécution au propriétaire du fichier hello 6-multiple_permissions : ajouter l'autorisation d'exécution au propriétaire et au propriétaire du groupe, ainsi que l'autorisation de lecture aux autres utilisateurs, au 
-fichier hello
+5-execute : ajouter l'autorisation d'exécution au propriétaire du fichier hello 6-multiple_permissions : ajouter l'autorisation d'exécution au propriétaire et au propriétaire du groupe, ainsi que l'autorisation de lecture aux autres utilisateurs, au fichier hello
 
 7-everybody : ajouter l'autorisation d'exécution au propriétaire, au propriétaire du groupe et aux autres utilisateurs, au fichier hello
 
